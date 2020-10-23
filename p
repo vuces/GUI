@@ -35,7 +35,7 @@ mt = "materiaal"
 ad = "advies"
 af = "korting"
 advies = ["Ik zou je de Mask Stand zeker aanraden, tijdens de coronacrisis zijn maskers een must!", "Het zou niet evident zijn om je mondkapje te verliezen... Kopen dus!", "Het zou slim zijn om je maskers goed bij te houden!"]
-bedrijf = ["ZENKO zijn de masterminds achter mij en de Mask Stand!", "Het bedrijf ZENKO heeft de Mask Stand gemaakt!\nVoor meer info kies de keuze 'contact'!", "Contact opnemen met het bedrijf ZENKO gaat makkelijk door een vraag te stellen aan mij over contact! ZENKO was opgericht door Taha Zeroual." ]
+bedrijf = ["ZENKO zijn de masterminds achter mij en de Mask Stand!", "Het bedrijf ZENKO heeft de Mask Stand gemaakt!\nVoor meer info kies de keuze 'contact'!", "Contact opnemen met het bedrijf ZENKO gaat makkelijk door een vraag te stellen aan mij over contact! ZENKO was opgericht." ]
 groet = ["Hoe gaat het!", "Howdy!", "Hey daar!"]
 
 
